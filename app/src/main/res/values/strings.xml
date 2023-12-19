@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">amaan dice roll</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="roll">Roll</string>
+</resources>
